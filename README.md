@@ -1,2 +1,2 @@
-# k-ampus-test-task
-Test task
+## K-AMPUS (тестовое задание)
+
